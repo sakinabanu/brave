@@ -1,0 +1,13 @@
+BRAVE SETUP :
+
+Go to google 
+Search for Brave
+Download Brave Browser
+Accept  the policies and install
+Go to setting on chrome
+Then to default browser
+Set brave as default browser
+Then clos the browser 
+Know when ever you click a link it will take you directly on Brave Browser.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

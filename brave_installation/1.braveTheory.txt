@@ -1,0 +1,23 @@
+BRAVE :
+
+Brave was found by the founder of javascript.
+Brave was founded by Brendan Eich and CTO Brian Bondy on 28 May, 2015.
+It is used for the security of applications and data.
+Brave is a free and open-source web browser developed by Brave Software, Inc. based on the Chromium web browser. 
+Brave is a privacy-focused browser, which automatically blocks some advertisements and website trackers in its default settings. 
+Brave Software's headquarters are in San Francisco, California.
+On 20 January 2016, Brave Software launched the first version of Brave with ad-blocking capabilities and announced plans for an ad platform that uses "browser-side anonymous targeting".
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WHY USE BRAVE ?
+
+Brave is more secure browser then other browsers like chrome, internet explorer etc.
+It secures the data and also protects from miss handling of data.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+NOTE : It makes the server slow if other browsers are also running.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
